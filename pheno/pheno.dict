@@ -1,0 +1,27 @@
+FIELD,TYPE,DESCRIPTION
+IID,IID,Subject ID matching genotype file
+FID,NOMINAL,Family ID (not used)
+batch,NOMINAL,genotyping batch inferred by GenomePrep
+sex,NOMINAL,sex imputed from genotype data
+ambidextrous,BINARY,phenotype - 1 for use left and right hand equally and 0 otherwise
+lefthand,BINARY,phenotype - 1 for predominant left hand use and 0 otherwise
+height_cm,CONTINUOUS,phenotype - standing height in centimeters
+hair_black,BINARY,phenotype - 1 for black hair color and 0 otherwise
+hair_brown,BINARY,phenotype - 1 for brown hair color and 0 otherwise
+hair_blonde,BINARY,phenotype - 1 for blonde hair color and 0 otherwise
+PC1,CONTINUOUS,1st principal componet of genotype data
+PC2,CONTINUOUS,2nd PC
+PC3,CONTINUOUS,3rd PC
+PC4,CONTINUOUS,4rd PC
+PC5,CONTINUOUS,5th PC
+PC6,CONTINUOUS,6th PC
+PC7,CONTINUOUS,7th PC
+PC8,CONTINUOUS,8th PC
+PC9,CONTINUOUS,9th PC
+PC10,CONTINUOUS,10th PC
+simutrait1,CONTINUOUS,simulated continuous trait - causal variants across the entire genome
+simutrait2,CONTINUOUS,simulated continuous trait - causal variants across the entire genome
+simutrait_cc,BINARY,case/control trait - causal variants across the entire genome
+simutrait1_chr2122,CONTINUOUS,continuous trait - causal variants only in chr21 and chr22
+simutrait2_chr2122,CONTINUOUS,continuous trait - causal variants only in chr21 and chr22
+simutrait_cc_chr2122,BINARY,case/control trait - causal variants only in chr21 and chr22
