@@ -1,0 +1,6 @@
+UKB_NEALELAB_2018_LEFTHAND.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
+UKB_NEALELAB_2018_AMBIDEXT.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
+UKB_NEALELAB_2018_HAIR_BLACK.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
+UKB_NEALELAB_2018_HAIR_BLONDE.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
+UKB_NEALELAB_2018_HAIR_DARK_BROWN.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
+UKB_NEALELAB_2018_HEIGHT.GRCh37.hm3.gz filter=lfs diff=lfs merge=lfs -text
